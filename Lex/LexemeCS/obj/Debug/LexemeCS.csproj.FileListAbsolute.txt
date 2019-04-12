@@ -1,0 +1,7 @@
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\bin\Debug\LexemeCS.exe.config
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\bin\Debug\LexemeCS.exe
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\bin\Debug\LexemeCS.pdb
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\obj\Debug\LexemeCS.csprojResolveAssemblyReference.cache
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\obj\Debug\LexemeCS.csproj.CoreCompileInputs.cache
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\obj\Debug\LexemeCS.exe
+C:\Users\awais\Documents\Visual Studio 2017\Projects\LexemeCS\LexemeCS\obj\Debug\LexemeCS.pdb
